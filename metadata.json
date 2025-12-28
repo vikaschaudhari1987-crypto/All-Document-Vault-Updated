@@ -1,0 +1,8 @@
+{
+  "name": "Updated with logout All Documents Vault - Secure Personal Storage",
+  "description": "A comprehensive personal vault to manage documents on Google Drive and passwords on Google Sheets with integrated AI categorization and scanning features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
